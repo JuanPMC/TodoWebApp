@@ -1,0 +1,2 @@
+INSERT INTO todo (ID, USERNAME, DESCRIPTION, DEW_DATE, DONE) 
+VALUES (1001, 'pepe', 'Get certified for AWS', CURRENT_DATE(), false);
